@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://www.color-hex.com/palettes/13735.png);
+}
+.home{
+    color:white;
+    justify-content:center;
+    text-align: center;
+    font-style: italic;
+}
+.userlist{
+    color:white;
+    text-align: center;
+}
+.u{
+    color:rgb(238, 236, 240);
+    font: size 50px;
+    font-style: italic;
+    text-align: center;
+     
+}
